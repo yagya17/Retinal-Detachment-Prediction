@@ -1,26 +1,12 @@
 
 autokeras==1.1.0
 
-google-auth==2.23.2
-google-auth-oauthlib==1.0.0
-google-pasta==0.2.0
-h5py==3.9.0
 keras==2.14.0
-keras-core==0.1.7
-keras-nlp==0.6.2
-keras-tuner==1.4.4
+
 
 numpy==1.25.2
 
-python-debian===0.1.43ubuntu1
 
 tensorflow==2.14.0
-tensorflow-estimator==2.14.0
-tensorflow-hub==0.15.0
-tensorflow-io-gcs-filesystem==0.34.0
-tensorflow-text==2.14.0
 
-wrapt==1.14.1
-xdg==5
-xkit==0.0.0
-zipp==1.0.0
+
