@@ -13,7 +13,7 @@ import numpy as np
 from PIL import Image
 from keras.models import load_model
 
-loaded_model = load_model('/home/yagya/Downloads/trainedmodel.h5')
+loaded_model = load_model('trainedmodel.h5')
 def predict(eye_img):
     prediction=loaded_model.predict(eye_img)
     if(prediction[0][1]>=0.5):
